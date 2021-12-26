@@ -1,0 +1,4 @@
+dist/
+build/
+pari_utils.egg-info/
+pari_utils/__pycache__
